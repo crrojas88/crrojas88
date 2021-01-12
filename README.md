@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+<a href="https://twitter.com/crrojas">
+  <img align="left" alt="Rodrigo Rojas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/carlo-rodrigo-rojas-9622817a/">
+  <img align="left" alt="Rod's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+<br />
+My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking for work.
+
+
 
 <!--
 **crrojas88/crrojas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
