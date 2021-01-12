@@ -16,9 +16,8 @@ My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from
 - 📫 You can reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
 
-<br />
+**Languages and Tools:**
 
-**Languages and Tools:**  
 <code>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </code>
