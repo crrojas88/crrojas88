@@ -6,9 +6,29 @@
   <img align="left" alt="Rod's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking for work.
+My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
+<img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
+**What I'm Currently Doing / Working On:**
+- 👨🏽‍💻 Currently working on updating portfolio and personal projects
+- 🌱 Currently learning Redux
+- 💬 Contact me with any questions!
+- 📫 You can reach me on twitter [@crrojas](https://twitter.com/crrojas)
+- 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
 
+<br />
+
+**Languages and Tools:**  
+<code>
+  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+</code>
+<code>
+  <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+</code>
+<code>
+  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  </code>
+  
 
 <!--
 **crrojas88/crrojas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
