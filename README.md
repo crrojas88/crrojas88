@@ -56,6 +56,8 @@ Apart from writing, I also maintain a blog - you can find my articles on [Dev.to
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </code>
 
+
+
 👾 **Sample Work / Projects**
 <!-- placeholder text and images here for projects and highlighted work. Screen Shot of app with link to code. -->
 - [Flight Booker](https://www.google.com/): A command line database application that uses an API to check flights.
