@@ -7,6 +7,7 @@
 </a>
 <br />
 My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
+<br />
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
@@ -15,7 +16,7 @@ My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from
 - 💬 [Contact me](carlorrojas@gmail.com) with any questions!
 - 📫 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
-
+<br />
 :memo: **Blogs and Writing**
 
 Apart from writing, I also maintain a blog - you can find my articles on [Dev.to](https://dev.to/crrojas88).
@@ -49,7 +50,7 @@ Apart from writing, I also maintain a blog - you can find my articles on [Dev.to
 <code>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </code>
-
+<br />
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years.
 - :camera: Photography hobbyist. You can view some of my work [here](https://www.instagram.com/crrojas).
