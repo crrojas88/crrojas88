@@ -20,7 +20,7 @@ My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from
 
 📝 **Blogs and Writing**
 
-Apart from writing, I also maintain a blog - you can find my articles on [Dev.to](https://dev.to/crrojas88).
+Apart from programming, I also maintain a blog - you can find my articles on [Dev.to](https://dev.to/crrojas88).
 
 🔧 **Languages and Tools:**
 
