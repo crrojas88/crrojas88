@@ -1,3 +1,4 @@
+<!-- create a banner that pops and place here -->
 ### Hello there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 <a href="https://twitter.com/crrojas">
   <img align="left" alt="Rodrigo Rojas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
@@ -51,8 +52,16 @@ Apart from writing, I also maintain a blog - you can find my articles on [Dev.to
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </code>
 
+👾 **Sample Work / Projects**
+<!-- placeholder text and images here for projects and highlighted work. Screen Shot of app with link to code. -->
+- [Flight Booker](https://www.google.com/): A command line database application that uses an API to check flights.
+- [Decisions Decisions](https://www.google.com/): Decision making application built on Rails and Bootstrap.
+- [BuJo](https://www.google.com/): Bullet Journal application built with Javascript and Bootstrap.
+- [TaskListr](https://www.google.com/): A task listing application built with React.
+- [Capstone Project](https://www.google.com/): Lorem ipsum etc...
+
 ⚡ **Fun Facts About Me:**
-- :movie_camera: Worked as a video producer in NYC for 5 years.
+- :movie_camera: Worked as a video producer in NYC for 5 years. View my [video portfolio](https://www.youtube.com/playlist?list=PLnKPCHIgzv3ixN2C-QxCrlNosWelrz91L).
 - :camera: Photography hobbyist. You can view some of my work [here](https://www.instagram.com/crrojas).
 - :book: Lived in France for 3 years working as a teacher.
 - :fr: :es: :us: Fluent in 3 languages.
