@@ -13,11 +13,11 @@ My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from
 **What I'm Currently Doing / Working On:**
 - 👨🏽‍💻 Currently working on updating portfolio and personal projects
 - 🌱 Currently learning Redux
-- 💬 [Contact me](carlorrojas@gmail.com) with any questions!
-- 📫 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
+- 📫 [Contact me](carlorrojas@gmail.com) with any questions!
+- 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
-<br />
-:memo: **Blogs and Writing**
+
+📝 **Blogs and Writing**
 
 Apart from writing, I also maintain a blog - you can find my articles on [Dev.to](https://dev.to/crrojas88).
 
