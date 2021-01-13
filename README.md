@@ -6,7 +6,7 @@
   <img align="left" alt="Rod's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-My name is [Rodrigo Rojas](https://www.instagram.com/crrojas/?hl=en) and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
+My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
@@ -16,26 +16,36 @@ My name is [Rodrigo Rojas](https://www.instagram.com/crrojas/?hl=en) and I'm a f
 - 📫 You can reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
 
-**Languages and Tools:**
+:memo: **Blogs and Writing**
+
+Apart from writing, I also maintain a blog - you can find my articles on [Dev.to](https://dev.to/crrojas88).
+
+🔧 **Languages and Tools:**
 
 <code>
   <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/ruby-%23CC342D.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/rails%20-%23CC0000.svg?&style=for-the-badge&logo=ruby-on-rails&logoColor=white"/>
 </code>
+
 <code>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </code>
