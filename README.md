@@ -72,6 +72,11 @@ Apart from writing, I also maintain a blog - you can find my articles on [Dev.to
 - :book: Lived in France for 3 years working as a teacher.
 - :fr: :es: :us: Fluent in 3 languages.
 
+[![Rod's github stats](https://github-readme-stats.vercel.app/api?username=crrojas88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- ![Rodrigo's github stats](https://github-readme-stats.vercel.app/api?username=crrojas88&show_icons=true&theme=radical) -->
+
 <!--
 **crrojas88/crrojas88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
