@@ -50,7 +50,7 @@ Apart from writing, I also maintain a blog - you can find my articles on [Dev.to
 <code>
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 </code>
-<br />
+
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years.
 - :camera: Photography hobbyist. You can view some of my work [here](https://www.instagram.com/crrojas).
