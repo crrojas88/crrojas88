@@ -55,7 +55,6 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 <code>
 <img src="https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white"/>
 </code>
-
 <br/>
 
 👾 **Sample Work / Projects**
