@@ -60,11 +60,11 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 
 👾 **Sample Work / Projects**
 <!-- placeholder text and images here for projects and highlighted work. Screen Shot of app with link to code. -->
-- [Flight Booker](https://github.com/marisayou/flight-booker) | [Video](https://www.youtube.com/watch?v=gBlhx1FjNTM&feature=youtu.be&ab_channel=CarloRodrigoRojas): A command line database application that uses the SkyScanner API to check and book flights.
+- [Flight Booker](https://github.com/marisayou/flight-booker) | [Video](https://www.youtube.com/watch?v=gBlhx1FjNTM&feature=youtu.be&ab_channel=CarloRodrigoRojas) |: A command line database application that uses the SkyScanner API to check and book flights.
 - [Decisions Decisions](https://www.google.com/): Decision making application built on Rails and Bootstrap.
 - [BuJo](https://www.google.com/): Bullet Journal application built with Javascript and Bootstrap.
 - [TaskListr](https://www.google.com/): A task listing application built with React.
-- [Capstone Project](https://www.google.com/): Lorem ipsum etc...
+- [Rodslist](https://rodslist.netlify.app/) | [Repo](https://github.com/crrojas88/e-shop/tree/master) |: An e-commerce application built with React and Next.js.
 
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years. View my [video portfolio](https://www.youtube.com/playlist?list=PLnKPCHIgzv3ixN2C-QxCrlNosWelrz91L).
