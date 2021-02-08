@@ -7,7 +7,7 @@
   <img align="left" alt="Rod's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
-My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
+My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru, living in California, and I'm currently looking to get my foot in the door in the tech world!
 <br />
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
