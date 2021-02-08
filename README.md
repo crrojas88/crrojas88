@@ -12,7 +12,7 @@ My name is Rodrigo Rojas and I'm a full stack web developer. I'm originally from
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
-- 👨🏽‍💻 Currently working on updating portfolio and personal projects
+- 👨🏽‍💻 Currently working on [UNIQLOne](https://github.com/crrojas88/rod-clothing)
 - 🌱 Currently learning Redux
 - 📫 [Contact me](carlorrojas@gmail.com) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
@@ -68,7 +68,7 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years. View my [video portfolio](https://www.youtube.com/playlist?list=PLnKPCHIgzv3ixN2C-QxCrlNosWelrz91L).
 - :camera: Photography hobbyist. You can view some of my work [here](https://www.instagram.com/crrojas).
-- :book: Lived in France for 3 years working as a teacher.
+- :book: Lived and worked in France for 3 years as a teacher for the Department of Education.
 - :fr: :es: :us: Fluent in 3 languages.
 
 [![Rod's github stats](https://github-readme-stats.vercel.app/api?username=crrojas88&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
