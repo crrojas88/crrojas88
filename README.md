@@ -63,7 +63,7 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 - [Decisions Decisions](https://github.com/Michael-Lee-1994/DecisionsDecisions_ProjectTwo): A collaboratively built decision making application built on Rails and Bootstrap.
 - [BuJo](https://github.com/crrojas88/bujo-frontend) | [Frontend](https://github.com/crrojas88/bujo-frontend) | [Backend](https://github.com/crrojas88/bujo-backend) |: Bullet Journal application built with Javascript for frontend functionality, Rails for backend data management, and Bootstrap for styling.
 - [Rodslist](https://rodslist.netlify.app/) | [Repo](https://github.com/crrojas88/e-shop/tree/master) |: An e-commerce application built with React and Next.js.
-- [UNIQLOne](https://github.com/crrojas88/rod-clothing) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
+- [UNIQ-LONE](https://github.com/crrojas88/rod-clothing) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
 
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years. View my [video portfolio](https://www.youtube.com/playlist?list=PLnKPCHIgzv3ixN2C-QxCrlNosWelrz91L).
