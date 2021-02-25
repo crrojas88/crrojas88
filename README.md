@@ -3,7 +3,7 @@
 <a href="https://twitter.com/crrojas">
   <img align="left" alt="Rodrigo Rojas | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/carlo-rodrigo-rojas-9622817a/">
+<a href="https://www.linkedin.com/in/carlo-rodrigo-rojas">
   <img align="left" alt="Rod's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 <br />
@@ -14,7 +14,7 @@ My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru,
 **What I'm Currently Doing / Working On:**
 - 👨🏽‍💻 Currently working on [UNIQLOne](https://github.com/crrojas88/rod-clothing)
 - 🌱 Currently learning Redux
-- 📫 [Contact me](carlorrojas@gmail.com) with any questions!
+- 📫 [Contact me](https://carlorodrigorojas.com/) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1CBQMS6eEJY3wGqclOmJMwq1Nw_yE7eoG/view?usp=sharing)
 
