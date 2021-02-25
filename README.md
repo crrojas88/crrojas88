@@ -16,7 +16,7 @@ My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru,
 - 🌱 Currently learning Redux
 - 📫 [Contact me](carlorrojas@gmail.com) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
-- 📝 [Resumé](https://drive.google.com/file/d/1mZAcgvSHY5nJpC33VGZUsy1wFAMm9J5Z/view?usp=sharing)
+- 📝 [Resumé](https://drive.google.com/file/d/1CBQMS6eEJY3wGqclOmJMwq1Nw_yE7eoG/view?usp=sharing)
 
 📝 **Blogs and Writing**
 
