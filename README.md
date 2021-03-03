@@ -12,7 +12,7 @@ My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru,
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
-- 👨🏽‍💻 Currently working on [UNIQLOne](https://uniqlone-live.herokuapp.com/)
+- 👨🏽‍💻 Currently working on [UNIQLO-NE](https://uniqlone-live.herokuapp.com/)
 - 🌱 Currently learning Redux
 - 📫 [Contact me](https://carlorodrigorojas.com/) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
@@ -59,7 +59,7 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 
 👾 **Sample Work / Projects**
 <!-- placeholder text and images here for projects and highlighted work. Screen Shot of app with link to code. -->
-- [UNIQ-LONE](https://uniqlone-live.herokuapp.com/) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
+- [UNIQLO-NE](https://uniqlone-live.herokuapp.com/) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
 - [Flight Booker](https://github.com/marisayou/flight-booker) | [Video](https://www.youtube.com/watch?v=gBlhx1FjNTM&feature=youtu.be&ab_channel=CarloRodrigoRojas) |: A command line database application that uses the SkyScanner API to check and book flights. This project was built collaboratively for the Software Engineering track at Flatiron School.
 - [Decisions Decisions](https://github.com/Michael-Lee-1994/DecisionsDecisions_ProjectTwo): A collaboratively built decision making application built on Rails and Bootstrap.
 - [BuJo](https://github.com/crrojas88/bujo-frontend) | [Frontend](https://github.com/crrojas88/bujo-frontend) | [Backend](https://github.com/crrojas88/bujo-backend) | [Video](https://youtu.be/8iVFDpYdMHg) |: Bullet Journal application built with Javascript for frontend functionality, Rails for backend data management, and Bootstrap for styling.
