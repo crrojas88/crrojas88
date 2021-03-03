@@ -12,7 +12,7 @@ My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru,
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
-- 👨🏽‍💻 Currently working on [UNIQLOne](https://github.com/crrojas88/rod-clothing)
+- 👨🏽‍💻 Currently working on [UNIQLOne](https://uniqlone-live.herokuapp.com/)
 - 🌱 Currently learning Redux
 - 📫 [Contact me](https://carlorodrigorojas.com/) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
@@ -63,7 +63,7 @@ Apart from programming, I also maintain a blog - you can find my articles on [De
 - [Decisions Decisions](https://github.com/Michael-Lee-1994/DecisionsDecisions_ProjectTwo): A collaboratively built decision making application built on Rails and Bootstrap.
 - [BuJo](https://github.com/crrojas88/bujo-frontend) | [Frontend](https://github.com/crrojas88/bujo-frontend) | [Backend](https://github.com/crrojas88/bujo-backend) | [Video](https://youtu.be/8iVFDpYdMHg) |: Bullet Journal application built with Javascript for frontend functionality, Rails for backend data management, and Bootstrap for styling.
 - [Rodslist](https://rodslist.netlify.app/) | [Repo](https://github.com/crrojas88/e-shop/tree/master) |: An e-commerce application built with React and Next.js.
-- [UNIQ-LONE](https://github.com/crrojas88/rod-clothing) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
+- [UNIQ-LONE](https://uniqlone-live.herokuapp.com/) | [Repo](https://github.com/crrojas88/rod-clothing) |: Revamped e-commerce application built with React, Redux, and Firebase for backend authentication and authorization.
 
 ⚡ **Fun Facts About Me:**
 - :movie_camera: Worked as a video producer in NYC for 5 years. View my [video portfolio](https://www.youtube.com/playlist?list=PLnKPCHIgzv3ixN2C-QxCrlNosWelrz91L).
