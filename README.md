@@ -12,8 +12,8 @@ My name is Rodrigo and I'm a full stack web developer. I'm originally from Peru,
 <img src="https://github.com/crrojas88/crrojas88/blob/main/code.gif" alt="gif" align="right" width="500" height="320" />
 
 **What I'm Currently Doing / Working On:**
-- 👨🏽‍💻 Currently working on [UNIQLO-NE](https://uniqlone-live.herokuapp.com/)
-- 🌱 Currently learning Redux
+- 👨🏽‍💻 Currently working on [Fullstack Open](https://github.com/crrojas88/fullstack-open)
+- 🌱 Currently learning MongoDB
 - 📫 [Contact me](https://carlorodrigorojas.com/) with any questions!
 - 💬 You can also reach me on twitter [@crrojas](https://twitter.com/crrojas)
 - 📝 [Resumé](https://drive.google.com/file/d/1CBQMS6eEJY3wGqclOmJMwq1Nw_yE7eoG/view?usp=sharing)
